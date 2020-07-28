@@ -20,7 +20,8 @@
   "homepage": "https://github.com/natka58/zookeepr#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "install": "^0.13.0"
+    "install": "^0.13.0",
+    "jest": "^26.1.0"
   },
   "devDependencies": {}
 }
